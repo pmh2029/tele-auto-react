@@ -2,7 +2,9 @@
 B1: Vào https://my.telegram.org/apps để lấy app_id và app_hash
 
 B2: Clone prj, chạy các lệnh sau
+    
     python3 -m venv venv && source venv/bin/activate
+    
     pip install -r requirements.txt
 
 B3: Chạy python3 utils.py
